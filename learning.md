@@ -18,7 +18,7 @@ would print out the purvhase is affordable
 
 I forgot to add the colon after the if statement so i added that 
 I learnt the the order of the varables you are comparing does matter and can affect what the programe does 
+Also both paths must give remaining_cash a value before it's printed .
 
 
 
-re
