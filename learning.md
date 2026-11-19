@@ -56,3 +56,5 @@ With or, at least one check must be True for the whole condition to be True.
 True therefore means an invalid input was found, so the program prints “Invalid purchase inputs”.
 
 If all three checks are False, the program follows else and prints “Valid purchase inputs”.
+
+Validation happens before affordability. If any invalid-input condition is true, the withdrawal is rejected—even if there is enough money.
